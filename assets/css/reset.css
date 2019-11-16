@@ -1,8 +1,7 @@
-
-    @import url("font-awesome.min.css");
-    @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
-        
-
+/*Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -20,55 +19,51 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-    vertical-align: baseline;}
-    
-    article, aside, details, figcaption, figure,
-    footer, header, hgroup, menu, nav, section {
-        display: block;}
-    
-    body {
-        line-height: 1;
-    }
+	vertical-align: baseline;} 
 
-    ol, ul {
-        list-style: none;
-    }
-
-
-
-
-    blockquote, q {
-        quotes: none;
-    }
-    
-        blockquote:before, blockquote:after, q:before, q:after {
-            content: '';
-            content: none;
-        }
-
-        
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;}
 
 body {
-	-webkit-text-size-adjust: none;
+	line-height: 1;
 }
 
-mark {
-	background-color: transparent;
-	color: inherit;
+ol, ul {
+	list-style: none;
 }
 
-input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
+blockquote, q {
+	quotes: none;
 }
 
-input, select, textarea {
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	-ms-appearance: none;
-	appearance: none;
-}
+	blockquote:before, blockquote:after, q:before, q:after {
+		content: '';
+		content: none;
+	} 
+
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    body {
+        -webkit-text-size-adjust: none;
+    }
+    
+    mark {
+        background-color: transparent;
+        color: inherit;
+    }
+    
+    input::-moz-focus-inner {
+        border: 0;
+        padding: 0;
+    }
+    
+    input, select, textarea {
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        -ms-appearance: none;
+        appearance: none;
+	}
+	/* finish */
